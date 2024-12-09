@@ -2,6 +2,17 @@
 
 <a href="https://www.packtpub.com/en-us/product/coding-with-chatgpt-and-other-llms-9781805125051"><img src="https://m.media-amazon.com/images/I/71F63SPheuL._SL1500_.jpg" alt="Coding with ChatGPT and Other LLMs" height="256px" align="right"></a>
 
+
+
+
+
+
+
+
+
+
+
+
 This is the code repository for [Coding with ChatGPT and Other LLMs](https://www.packtpub.com/en-us/product/coding-with-chatgpt-and-other-llms-9781805125051), published by Packt.
 
 **Navigate LLMs for effective coding, debugging, and AI-driven development**
